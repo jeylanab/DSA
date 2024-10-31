@@ -1,0 +1,33 @@
+# remember space and time complexity when you are developing a software or web app
+# promblems has different solutions with different complexity
+# we use big-o to compare which solution is the based by space and time efficiency
+
+             time - duration
+             space - memory
+
+#use big-o notation to describe the efficiency of code without using concrete unit
+
+product rule and sum rule of big-O notation;
+       
+             -product rule;
+                    examples-  O(n * 24) = O(n)
+                    examples-  O(n^2 * 24) = O(n^2)
+                    examples-  O(n^2 * n * 24) = O(n^2)
+            -sum rule;
+                    examples-  O(n + 24) = O(n)
+                    examples-  O(n^3 +n^2 + 24) = O(n^3)
+                    examples-  O(1000 + 24) = O(1)
+
+
+types:
+     constant complexity - O(1)
+                 - is is constant value 
+                   examples: 
+                           O(100) = O(1)
+     logarithmic complexity - O(log(n))  -- when there is a division 
+                 - it is much smaller than big-O of O(n) or linear
+     linear complexity - O(n)
+                 -examples  - O(n)
+                 -examples  - O(n^3)
+
+     loglinear complexity - O(nlog(n))
