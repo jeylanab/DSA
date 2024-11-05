@@ -1,6 +1,6 @@
 # remember space and time complexity when you are developing a software or web app
-# promblems has different solutions with different complexity
-# we use big-o to compare which solution is the based by space and time efficiency
+# problems has different solutions with different complexity
+# we use big-o to compare which solution is the best based on by space and time efficiency
 
              time - duration
              space - memory
@@ -13,9 +13,9 @@ product rule and sum rule of big-O notation;
                     examples-  O(n * 24) = O(n)
                     examples-  O(n^2 * 24) = O(n^2)
                     examples-  O(n^2 * n * 24) = O(n^2)
-            -sum rule;
+             -sum rule;
                     examples-  O(n + 24) = O(n)
-                    examples-  O(n^3 +n^2 + 24) = O(n^3)
+                    examples-  O(n^3 + n^2 + 24) = O(n^3)
                     examples-  O(1000 + 24) = O(1)
 
 

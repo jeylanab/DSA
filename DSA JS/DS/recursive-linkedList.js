@@ -65,8 +65,7 @@ list.append('4')
 
 list.print();
 
-console.log(list.contain('1'))
-console.log(list.contain('3'))
-console.log(list.contain('4'))
-console.log(list.contain('6'))
-
+console.log(list.contain('1'));
+console.log(list.contain('3'));
+console.log(list.contain('4'));
+console.log(list.contain('6'));
