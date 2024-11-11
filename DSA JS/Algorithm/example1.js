@@ -34,7 +34,5 @@ const unique2 = (array) => {
 
 console.log(unique2([2,4,5,6,5,3,8,6,5,4]))
 
-
-
 // A JavaScript Set is a collection of unique values.
 // The values can be of any type, primitive values or objects.
