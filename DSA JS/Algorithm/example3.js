@@ -12,3 +12,4 @@ const pikachu = (n) => {
 // this function has time complexity of O(log(n));
 // this function has space complexity of O(log(n));
 console.log(pikachu(100));
+console.log("i came back after long time")
